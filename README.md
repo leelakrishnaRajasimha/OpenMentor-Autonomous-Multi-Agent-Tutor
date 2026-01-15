@@ -5,7 +5,8 @@
 Date: 26 November 2025
 
 # Implementation
-- Notebook (code + graphs): [openmentor-autonomous-multi-agent.ipynb](openmentor-autonomous-multi-agent.ipynb)
+- Notebook (code + graphs): [openmentor-autonomous-multi-agent.ipynb](openmentor-autonomous-multi-agent-tutor.ipynb)
+
 # Project Overview
 This project implements a multi-agent system designed to act as a personal study assistant. The goal was to build a system where multiple specialized agents cooperate to teach a subject, rather than using a single script.
 
